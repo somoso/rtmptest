@@ -1,0 +1,2 @@
+git "https://github.com/somoso/lf.swift.git" "210ac7b8950f8341be015871da3c6627d68e68fc"
+github "DaveWoodCom/XCGLogger" "5.0.5"

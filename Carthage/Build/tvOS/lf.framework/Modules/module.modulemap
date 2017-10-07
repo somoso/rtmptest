@@ -1,0 +1,11 @@
+framework module lf {
+  umbrella header "lf.h"
+
+  export *
+  module * { export * }
+}
+
+module lf.Swift {
+    header "lf-Swift.h"
+    requires objc
+}
